@@ -1,15 +1,18 @@
 {
-    "name": "heatmap.js-amd",
+    "name": "heatmap.js-amd-mine",
     "version": "2.0.0",
     "description": "Support amd for heatmap.js",
     "main": "build/heatmap.min.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/pa7/heatmap.js.git"
+        "url": "https://github.com/ikeikeikeike/heatmap.js.git"
     },
     "licenses": [
         {
             "type": "MIT"
+        },
+        {
+            "type": "Beerware"
         }
     ]
 }
